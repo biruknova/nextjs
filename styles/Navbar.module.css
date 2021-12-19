@@ -1,0 +1,19 @@
+.textArea {
+    border-radius: 50px;
+    display: inline-flex !important;
+    margin-left: 300px;
+    margin-bottom: 13px;
+
+}
+
+.navbar {
+    margin: auto 20px;
+    border-bottom: 1px solid #cbcbcb;
+    padding: 10px;
+    margin-bottom: 25px;
+}
+
+.darkMode {
+    display: inline-flex !important;
+    float: right;
+}
